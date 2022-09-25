@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá 👋, este é meu repositório
 
-<!--
-**codexdevbrn/codexdevbrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Me chamo Bruno, estas são minhas competências:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho com Gerenciamento de Banco de dados;
+- 🌱 Estou estudando **Javascript, React, React-Native, Node.Js**;
+- 📫 brunoduarte.inf@outlook.com;
+- 😄 Pronomes: ele/dele;
+
+## Contact
+<a href="https://www.linkedin.com/in/brunoduarteads" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Bruno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<p></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codexdevbrn&color=yellow" alt="Profile views" /> </p>

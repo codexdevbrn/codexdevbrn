@@ -4,7 +4,7 @@
 
 # Olá 👋, eu sou Bruno Duarte
 
-<p align = "justify">Estou criando minha stack em busca de me tornar Dev e estou em busca de uma oportunidade.</p>
+<p align = "justify">Sou estudante de desenvolvimento, busco oportunidades no mercado e não vou parar até alcançar meus objetivos.</p>
 
 No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias das linguagens citadas.
 

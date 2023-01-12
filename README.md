@@ -27,11 +27,6 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=VisualStudioCode)
 
-<div>
-  <a href="https://github.com/codexdevbrn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexdevbrn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexdevbrn&layout=compact&langs_count=7&theme=dark"/>
-</div> 
 
 ##
 

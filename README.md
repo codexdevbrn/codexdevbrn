@@ -6,7 +6,7 @@
 
 <p align = "justify">Sou estudante de desenvolvimento, busco oportunidades no mercado e não vou parar até alcançar meus objetivos.</p>
 
-No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias das linguagens citadas.
+No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoduarteads/)](https://www.linkedin.com/in/brunoduarteads/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoduarte.inf@gmail.com)](mailto:brunoduarte.inf@gmail.com)

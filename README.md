@@ -4,9 +4,13 @@
 
 # Olá 👋, eu sou Bruno Duarte
 
-<p align = "justify">Sou estudante de desenvolvimento, busco oportunidades no mercado e não vou parar até alcançar meus objetivos.</p>
+<p align = "justify">Sou formado em Análise e Desenvolvimento de Sistemas e atuo a 6 anos como Administrador de Banco de dados, busco oportunidades para atuar como Desenvolvedor.</p>
 
-No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias.
+<p>Atualmente tenho me qualificado com tecnologias de desenvolvimento baseadas em Javascript, como React, React Native, Typescript e NodeJs. Todo meu ecossistema de estudo tem foco em desenvolvimento FullStack. Possuo interesse em Plataformas de nuvem como Azure e Aws.</p>
+
+<p>Atuando como DBA obtive vivencia com bancos de dados relacionais, grandes fluxos de dados, armazenamento, distribuição de dados e monitoramento de sobrecargas de dados.</p>
+
+<p>Sou um profissional dedicado, criativo, organizado e pontual com minhas demandas</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoduarteads/)](https://www.linkedin.com/in/brunoduarteads/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoduarte.inf@gmail.com)](mailto:brunoduarte.inf@gmail.com)
@@ -15,6 +19,7 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 ## 🚀 Tecnologias & Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
@@ -28,6 +33,20 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=VisualStudioCode)
 
 
+
 ##
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexdevbrn&color=yellow" alt="Profile views" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codexdevbrn&theme=nightowl&hide_border=true&border_radius=9.3&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
+  </p>
+
+# Meus Status
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/codexdevbrn/github-readme-stats"><img alt="Bruno Duarte Github Stats" src="https://github-readme-stats.vercel.app/api?username=codexdevbrn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/codexdevbrn/github-readme-stats"><img alt="Bruno Duarte Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexdevbrn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+  <br/>
+

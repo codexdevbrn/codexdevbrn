@@ -12,7 +12,7 @@
 
 <p>Sou um profissional dedicado, criativo, organizado e pontual com minhas demandas</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoduarteads/)](https://www.linkedin.com/in/brunoduarteads/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoddev/)](https://www.linkedin.com/in/brunoddev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoduarte.inf@gmail.com)](mailto:brunoduarte.inf@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521981072425)
 

@@ -6,7 +6,7 @@
 
 <p>Atualmente tenho me qualificado com tecnologias de desenvolvimento baseadas em Javascript, como React, React Native, Typescript e NodeJs. Todo meu ecossistema de estudo tem foco em desenvolvimento FullStack. Possuo interesse em Plataformas de nuvem como Azure e Aws.</p>
 
-<p>Atuando como DBA obtive vivencia com bancos de dados relacionais, grandes fluxos de dados, armazenamento, distribuição de dados e monitoramento de sobrecargas de dados.</p>
+<p>Atuando como Coordenador de banco de dados, obtive vivencia com bancos de dados relacionais, grandes fluxos de dados, armazenamento, distribuição de dados e monitoramento de sobrecargas de dados.</p>
 
 <p>Sou um profissional dedicado, criativo, organizado e pontual com minhas demandas</p>
 

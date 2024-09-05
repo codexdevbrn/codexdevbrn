@@ -1,6 +1,4 @@
 
-<img src="https://tricodetechnology.com.np/img/coding.svg" alt="aset" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Coffstack">  
-
 
 # Olá 👋, eu sou Bruno Duarte
 

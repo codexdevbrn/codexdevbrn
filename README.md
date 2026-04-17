@@ -2,13 +2,13 @@
 
 # Olá 👋, eu sou Bruno Duarte
 
-<p align = "justify">Sou formado em Análise e Desenvolvimento de Sistemas e atuo a 6 anos como Administrador de Banco de dados, busco oportunidades para atuar como Desenvolvedor.</p>
+<p align = "justify">Sou formado em Análise e Desenvolvimento de Sistemas atuei à 6 anos como Administrador de Banco de dados, hoje sou Desenvolvedor na empresa 2D Consultores</p>
 
 <p>Atualmente tenho me qualificado com tecnologias de desenvolvimento baseadas em Javascript, como React, React Native, Typescript e NodeJs. Todo meu ecossistema de estudo tem foco em desenvolvimento FullStack. Possuo interesse em Plataformas de nuvem como Azure e Aws.</p>
 
 <p>Atuando como Coordenador de banco de dados, obtive vivencia com bancos de dados relacionais, grandes fluxos de dados, armazenamento, distribuição de dados e monitoramento de sobrecargas de dados.</p>
 
-<p>Sou um profissional dedicado, criativo, organizado e pontual com minhas demandas</p>
+<p>Na empresa atual trabalho com diversas tecnologias, como python e javascript. Utilizamos tecnologias de acordo com a demanda do projeto, usando react no front end da maioria dos projetos. Também trabalho com a parte de extração de dados, criando ETLs inteligentes e que complementem nosso trabalho com dados limpos e bem validados.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoddev/)](https://www.linkedin.com/in/brunoddev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoduarte.inf@gmail.com)](mailto:brunoduarte.inf@gmail.com)

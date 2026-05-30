@@ -1,50 +1,96 @@
+<!-- Banner Animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Olá,%20eu%20sou%20Bruno%20Duarte!&fontSize=45&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Especialista%20em%20Dados&descAlignY=60&descAlign=50&fontColor=ffffff" />
+</div>
 
+<br>
 
-# Olá 👋, eu sou Bruno Duarte
+<!-- Redes e Contatos -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/brunoddev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brunoduarte.inf@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/5521981072425">
+    <img src="https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
 
-<p align = "justify">Sou formado em Análise e Desenvolvimento de Sistemas atuei à 6 anos como Administrador de Banco de dados, hoje sou Desenvolvedor na empresa 2D Consultores</p>
+<br>
 
-<p>Atualmente tenho me qualificado com tecnologias de desenvolvimento baseadas em Javascript, como React, React Native, Typescript e NodeJs. Todo meu ecossistema de estudo tem foco em desenvolvimento FullStack. Possuo interesse em Plataformas de nuvem como Azure e Aws.</p>
+---
 
-<p>Atuando como Coordenador de banco de dados, obtive vivencia com bancos de dados relacionais, grandes fluxos de dados, armazenamento, distribuição de dados e monitoramento de sobrecargas de dados.</p>
+<!-- Sobre Mim -->
+<h2 align="center"> 👨‍💻 Sobre Mim </h2>
 
-<p>Na empresa atual trabalho com diversas tecnologias, como python e javascript. Utilizamos tecnologias de acordo com a demanda do projeto, usando react no front end da maioria dos projetos. Também trabalho com a parte de extração de dados, criando ETLs inteligentes e que complementem nosso trabalho com dados limpos e bem validados.</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoddev/)](https://www.linkedin.com/in/brunoddev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoduarte.inf@gmail.com)](mailto:brunoduarte.inf@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521981072425)
-
-## 🚀 Tecnologias & Conhecimentos
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=VisualStudioCode)
-
-
-
-##
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codexdevbrn&theme=nightowl&hide_border=true&border_radius=9.3&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
+<div align="center">
+  <p align="justify">
+    Sou formado em Análise e Desenvolvimento de Sistemas. Após atuar por 6 anos como Administrador de Banco de Dados (DBA) e Coordenador, hoje integro o time de Desenvolvimento da <b>2D Consultores</b>.
   </p>
-
-# Meus Status
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/codexdevbrn/github-readme-stats"><img alt="Bruno Duarte Github Stats" src="https://github-readme-stats.vercel.app/api?username=codexdevbrn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/codexdevbrn/github-readme-stats"><img alt="Bruno Duarte Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexdevbrn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="justify">
+    Em minha trajetória com bancos de dados, adquiri sólida vivência com bancos relacionais, gestão de grandes volumes de dados, armazenamento, distribuição e monitoramento de performance. Hoje, aplico essa bagagem analítica desenvolvendo soluções de ponta a ponta. 
   </p>
-  <br/>
+  <p align="justify">
+    No meu dia a dia, trabalho construindo aplicações utilizando principalmente <b>Python</b> e <b>JavaScript/React</b>. Além do desenvolvimento Web e Mobile, atuo fortemente na extração e estruturação de dados, criando pipelines de <b>ETL inteligentes</b> para garantir informações limpas, validadas e prontas para uso.
+  </p>
+  <p align="justify">
+    Atualmente, meu foco de aprimoramento é consolidar meu ecossistema <b>Full Stack</b> (React, React Native, TypeScript e Node.js) e expandir meus conhecimentos em arquitetura de nuvem, focando em <b>AWS</b> e <b>Azure</b>.
+  </p>
+</div>
 
+<br>
+
+---
+
+<!-- Tecnologias -->
+<h2 align="center"> 🚀 Tecnologias & Conhecimentos </h2>
+<br>
+
+<div align="center">
+  <h3>🌐 Front-end & Mobile</h3>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react" alt="React Native" />
+
+  <br><br>
+
+  <h3>⚙️ Back-end & Dados</h3>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
+  
+  <br><br>
+
+  <h3>☁️ DevOps & Nuvem</h3>
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" alt="Azure" />
+</div>
+
+<br>
+
+---
+
+<!-- Estatísticas do GitHub -->
+<h2 align="center"> 📊 Meus Status </h2>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codexdevbrn&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexdevbrn&theme=react&bg_color=0D1117" alt="Detalhes do Perfil" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codexdevbrn&theme=react&bg_color=0D1117" alt="Repositórios por Linguagem" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexdevbrn&theme=react&bg_color=0D1117" alt="Linguagens com mais Commits" width="48%" />
+</div>

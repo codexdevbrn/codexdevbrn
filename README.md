@@ -1,6 +1,6 @@
 <!-- Banner Animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Olá,%20eu%20sou%20Bruno%20Duarte!&fontSize=45&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Especialista%20em%20Dados&descAlignY=60&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Olá,%20eu%20sou%20Bruno%20Duarte!&fontSize=45&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Analista%20de%20Dados&descAlignY=60&descAlign=50&fontColor=ffffff" />
 </div>
 
 <br>

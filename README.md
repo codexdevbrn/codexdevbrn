@@ -33,10 +33,10 @@
     Em minha trajetória com bancos de dados, adquiri sólida vivência com bancos relacionais, gestão de grandes volumes de dados, armazenamento, distribuição e monitoramento de performance. Hoje, aplico essa bagagem analítica desenvolvendo soluções de ponta a ponta. 
   </p>
   <p align="justify">
-    No meu dia a dia, trabalho construindo aplicações utilizando principalmente <b>Python</b> e <b>JavaScript/React</b>. Além do desenvolvimento Web e Mobile, atuo fortemente na extração e estruturação de dados, criando pipelines de <b>ETL inteligentes</b> para garantir informações limpas, validadas e prontas para uso.
+    No meu dia a dia, trabalho construindo aplicações utilizando principalmente <b>Python/NodeJS</b> e <b>JavaScript/React</b>. Além do desenvolvimento Web e Mobile, atuo fortemente na extração e estruturação de dados, criando pipelines de <b>ETL inteligentes</b> para garantir informações limpas, validadas e prontas para uso.
   </p>
   <p align="justify">
-    Atualmente, meu foco de aprimoramento é consolidar meu ecossistema <b>Full Stack</b> (React, React Native, TypeScript e Node.js) e expandir meus conhecimentos em arquitetura de nuvem, focando em <b>AWS</b> e <b>Azure</b>.
+    Atualmente, meu foco de aprimoramento é consolidar meu ecossistema <b>Full Stack</b> (React, React Native, TypeScript e NodeJS / Python) e expandir meus conhecimentos em arquitetura de nuvem, focando em <b>AWS</b> e <b>Azure</b>.
   </p>
 </div>
 

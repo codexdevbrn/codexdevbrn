@@ -77,20 +77,3 @@
 
 <br>
 
----
-
-<!-- Estatísticas do GitHub -->
-<h2 align="center"> 📊 Meus Status </h2>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codexdevbrn&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexdevbrn&theme=react&bg_color=0D1117" alt="Detalhes do Perfil" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codexdevbrn&theme=react&bg_color=0D1117" alt="Repositórios por Linguagem" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexdevbrn&theme=react&bg_color=0D1117" alt="Linguagens com mais Commits" width="48%" />
-</div>
